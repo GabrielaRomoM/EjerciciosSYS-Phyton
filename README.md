@@ -1,2 +1,2 @@
-# EjerciciosSYS-Python
-Resolución de ejercicios de Python (Señales y Sistemas)
+# EjerciciosSYS
+Resolución de ejercicios de Señales y Sistemas 2023-2
